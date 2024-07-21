@@ -1,0 +1,4 @@
+1. Prompt the user to input two numbers (num1 and num2).
+2. Add the two numbers and store the result.
+3. Subtract the second number from the first and store the result.
+4. Print the results.

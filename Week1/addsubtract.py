@@ -5,8 +5,8 @@ def add_subtract(num1, num2):
     return addition, subtraction
 
 # Prompt user for input
-num1 = float(input("Enter the first number: "))
-num2 = float(input("Enter the second number: "))
+num1 = float(input("First number: "))
+num2 = float(input("Second number: "))
 
 # Perform the desired calculations
 addition_result, subtraction_result = add_subtract(num1, num2)

@@ -8,8 +8,8 @@ def multiply_divide(num1, num2):
     return multiplication, division
 
 # Prompt user for input
-num1 = float(input("Enter the first number: "))
-num2 = float(input("Enter the second number: "))
+num1 = float(input("First number: "))
+num2 = float(input("Second number: "))
 
 # Perform the desired calculations
 multiplication_result, division_result = multiply_divide(num1, num2)
