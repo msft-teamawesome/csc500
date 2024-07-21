@@ -1,4 +1,5 @@
 1. Prompt the user to input two numbers (num1 and num2).
 2. Multiply the two numbers and store the result.
-3. Divide the first number by the second and store the result (check for division by zero).
-4. Print the results.
+3. Divide the first number by the second and store the result, check for division by zero.
+4. If num2 equals 0 give an error that dividing by zero is not allowed.
+5. Print the results.
