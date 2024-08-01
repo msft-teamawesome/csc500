@@ -1,0 +1,20 @@
+function is_hot(temp):
+    return temp > 90
+
+function is_humid(humidity):
+    return humidity > 75
+
+function is_extremely_hot(temp):
+    return temp > 100
+
+function is_extremely_humid(humidity):
+    return humidity > 90
+
+# Compound conditional expression
+if (is_hot(temperature) and is_humid(humidity)) or (is_extremely_hot(temperature) or is_extremely_humid(humidity)):
+    if is_hot(temperature) and is_humid(humidity):
+        print("It is nasty outside today.")
+    else:
+        print("It is likely to be nasty today.")
+else:
+    print("It is likely not too nasty outside today.")
