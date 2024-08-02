@@ -1,0 +1,6 @@
+**Pseudocode:**
+1. Prompt the user to enter the charge for the food.
+2. Calculate the tip amount (18% of the food charge).
+3. Calculate the sales tax amount (7% of the food charge).
+4. Calculate the total amount (food charge + tip + tax).
+5. Display the food charge, tip amount, tax amount, and total amount.
