@@ -1,5 +1,5 @@
 **Pseudocode:**
 1. Prompt the user to enter the current time in hours (0-23).
 2. Prompt the user to enter the number of hours to wait for the alarm.
-3. Calculate the future time by adding the current time and the wait time, then taking the result modulo 24.
+3. Calculate the future time by adding the current time and the wait time, then taking the result divided by 24.
 4. Display the future time.
