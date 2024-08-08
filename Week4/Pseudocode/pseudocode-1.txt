@@ -1,0 +1,8 @@
+# Pseudocode
+initialize list of filenames
+for each filename in the list:
+    check if the file exists
+    if file exists:
+        print "File exists"
+    else:
+        print "File does not exist"

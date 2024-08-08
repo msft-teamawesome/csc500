@@ -1,0 +1,9 @@
+# Pseudocode
+initialize valid_input as False
+while not valid_input:
+    prompt user for input
+    if input is valid:
+        set valid_input to True
+        print "Valid input received"
+    else:
+        print "Invalid input, please try again"
