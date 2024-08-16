@@ -1,0 +1,6 @@
+if dodgers_played_last_night or dodgers_won:
+    // At least one condition must be True
+    discuss_dodgers_game()
+else:
+    // Both conditions are False
+    no_discussion()

@@ -1,0 +1,6 @@
+if dodgers_played_last_night and dodgers_won:
+    // Both conditions must be True
+    celebrate_dodgers_win()
+else:
+    // Either condition is False
+    no_celebration()
