@@ -1,0 +1,7 @@
+### Part 2: Book Club Points Calculation
+
+**Pseudocode:**
+1. Ask the user to enter the number of books purchased this month.
+2. Use conditional statements to determine the points awarded based on the number of books purchased.
+3. Display the number of points awarded.
+

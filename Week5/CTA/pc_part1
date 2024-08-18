@@ -1,0 +1,12 @@
+### Part 1: Baseball Batting Averages Calculation
+
+**Pseudocode:**
+1. Ask the user for the number of years.
+2. Initialize variables to store the total number of months and total batting average.
+3. Use an outer loop to iterate over each year.
+4. Inside the outer loop, use an inner loop to iterate over each month.
+5. For each month, ask the user for the batting average and add it to the total batting average.
+6. After all iterations, calculate the average batting average per month.
+7. Display the total number of months, total batting average, and average batting average per month.
+
+
